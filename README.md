@@ -19,7 +19,7 @@ This project is part of the Commonwealth Bank cybersecurity job simulation. In *
 - Analyzed gender-specific fraud patterns and generated reports for further investigation.
 
 ## Dashboard and Visualizations:
-You can view the dashboard and graphs generated in this task in the [Fraud Detection Dashboard PDF](path_to_pdf_file).
+You can view the dashboard and graphs generated in this task in the [Fraud Detection Dashboard PDF](https://github.com/dportersec/Data-Analysis-for-Fraudulent-Logs-Job-Simulation-Task-1/blob/main/fraud_detection_dashboard-2024-08-19.pdf).
 
 ## How to Run the Project:
 1. Clone this repository to your local machine.
